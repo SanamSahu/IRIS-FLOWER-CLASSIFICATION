@@ -30,4 +30,4 @@ The data set contains 3 classes of 50 instances each, where each class refers to
 <li>K-Nearest Neighbors
 <li>Decision Tree
   
-**Best Model Accuracy:** 100.00
+**Best Model Accuracy:** 97.00
